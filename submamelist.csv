@@ -1,14 +1,47 @@
 name,sourcefile,cloneof,year,manufacturer,status
 600,galaxian.cpp,turtles,1981,Konami,good
+8bpm,pacman.cpp,8ballact,1985,Seatongrove Ltd (Magic Electronics USA license),good
 abscam,pacman.cpp,puckman,1981,GL (US Billiards license),good
+acitya,pacman.cpp,bwcasino,1983,Epos Corporation,good
+alibaba,pacman.cpp,,1982,Sega,preliminary
+alibabab,pacman.cpp,alibaba,1982,bootleg,preliminary
+amidar,galaxian.cpp,,1982,Konami,good
 amidar1,galaxian.cpp,amidar,1981,Konami,good
+amidarb,galaxian.cpp,amidar,1982,bootleg,good
+amidaro,galaxian.cpp,amidar,1982,Konami (Olympia license),good
+amidars,galaxian.cpp,amidar,1982,Konami,good
+amidaru,galaxian.cpp,amidar,1982,Konami (Stern Electronics license),good
+amigo,galaxian.cpp,amidar,1982,bootleg,good
+anteater,galaxian.cpp,,1982,Tago Electronics,good
+anteaterg,galaxian.cpp,anteater,1982,Tago Electronics (TV-Tuning license from Free Enterprise Games),good
+anteatergg,galaxian.cpp,anteater,1982,bootleg,good
+anteateruk,galaxian.cpp,anteater,1982,Tago Electronics (Free Enterprise Games license,good
+aracnis,galaxian.cpp,scorpion,19??,bootleg,imperfect
 armorcar,galaxian.cpp,,1981,Stern Electronics,good
 armorcar2,galaxian.cpp,armorcar,1981,Stern Electronics,good
+asideral,galaxian.cpp,uniwars,1980,bootleg (Electrogame S.A.),good
+astrians,galaxian.cpp,galaxian,1980,bootleg (BGV Ltd.),good
 atlantis,galaxian.cpp,,1981,Comsoft,good
 atlantis2,galaxian.cpp,atlantis,1981,Comsoft,good
 atlantisb,galaxian.cpp,atlantis,1981,bootleg,good
+azurian,galaxian.cpp,,1982,Rait Electronics Ltd,good
 batman2,galaxian.cpp,phoenix,1981,bootleg,good
+beastf,pacman.cpp,suprglob,1984,Epos Corporation,good
+bigbucks,pacman.cpp,,1986,Dynasoft Inc.,good
+birdiy,pacman.cpp,,1983,Mama Top,good
 blkhole,galaxian.cpp,,1981,TDS & MINTS,good
+bomber,galaxian.cpp,scramble,198?,bootleg (Alca),good
+bucaner,pacman.cpp,puckman,198?,hack,good
+bwcasino,pacman.cpp,,1983,Epos Corporation,good
+calipso,galaxian.cpp,,1982,Tago Electronics,good
+candory,pacman.cpp,ponpoko,1982,bootleg,good
+cannonbp,pacman.cpp,,198?,Novomatic,preliminary
+catacomb,galaxian.cpp,,1982,MTM Games,preliminary
+checkman,galaxian.cpp,,1982,Zilec-Zenitone,good
+checkmanj,galaxian.cpp,checkman,1982,Zilec-Zenitone (Jaleco license),good
+chewing,galaxian.cpp,luctoday,19??,<unknown>,good
+clubpacm,pacman.cpp,,1989,Miky SRL,preliminary
+crockman,pacman.cpp,puckman,1980,bootleg (Rene Pierre),good
 crush,pacman.cpp,,1981,"Alpha Denshi Co. / Kural Samno Electric, Ltd.",good
 crush2,pacman.cpp,crush,1981,"Alpha Denshi Co. / Kural Esco Electric, Ltd.",good
 crush3,pacman.cpp,crush,1981,"Alpha Denshi Co. / Kural Electric, Ltd.",good
@@ -18,7 +51,25 @@ crushbl2,pacman.cpp,crush,1981,bootleg,good
 crushbl3,pacman.cpp,crush,1981,bootleg,good
 crushrlf,pacman.cpp,crush,1981,bootleg,good
 crushs,pacman.cpp,crush,1981,bootleg (Sidam),good
+ctrpllrp,pacman.cpp,puckman,1982,hack,good
+devilfsg,galaxian.cpp,devilfsh,1984,Vision / Artic,good
+dingo,galaxian.cpp,,1983,Ashby Computers and Graphics Ltd. (Jaleco license),good
+dingoe,galaxian.cpp,dingo,1983,Ashby Computers and Graphics Ltd.,preliminary
+dremshpr,pacman.cpp,,1982,Sanritsu,good
+drivfrcp,pacman.cpp,,1984,Shinkai Inc. (Magic Electronics Inc. license),good
+eagle,galaxian.cpp,mooncrst,1980,Nichibutsu (Centuri license),good
+eagle2,galaxian.cpp,mooncrst,1980,Nichibutsu (Centuri license),good
+eagle3,galaxian.cpp,mooncrst,1980,Nichibutsu (Centuri license),good
+eggor,pacman.cpp,,1983,Telko,preliminary
+exodus,galaxian.cpp,redufo,19??,bootleg? (Subelectro),good
 explorer,galaxian.cpp,scramble,1981,bootleg (Sidam),good
+eyes,pacman.cpp,,1982,Techstar (Rock-Ola license),good
+eyes2,pacman.cpp,eyes,1982,Techstar (Rock-Ola license),good
+eyesb,pacman.cpp,eyes,1982,bootleg,good
+eyeszac,pacman.cpp,eyes,1982,Techstar (Zaccaria license),preliminary
+eyeszacb,pacman.cpp,eyes,1982,bootleg,good
+fantastc,galaxian.cpp,,198?,Taito do Brasil,good
+fantazia,galaxian.cpp,mooncrst,1980,bootleg? (Subelectro),good
 frogf,galaxian.cpp,frogger,1981,bootleg (Falcon),good
 frogg,galaxian.cpp,frogger,1981,bootleg,good
 frogger,galaxian.cpp,,1981,Konami,good
@@ -28,19 +79,75 @@ froggers,galaxian.cpp,frogger,1981,bootleg,good
 froggers1,galaxian.cpp,frogger,1981,Konami (Sega license),good
 froggers2,galaxian.cpp,frogger,1981,Konami (Sega license),good
 froggrs,galaxian.cpp,frogger,1981,bootleg (Coin Music),good
+galap1,galaxian.cpp,galaxian,1979,hack,good
+galap4,galaxian.cpp,galaxian,1979,hack (G.G.I),good
+galapx,galaxian.cpp,galaxian,1979,hack,good
+galaxbsf,galaxian.cpp,galaxian,1979,bootleg,good
+galaxbsf2,galaxian.cpp,galaxian,1979,bootleg,good
+galaxian,galaxian.cpp,,1979,Namco,good
+galaxiana,galaxian.cpp,galaxian,1979,Namco,good
+galaxianbl,galaxian.cpp,galaxian,1979,bootleg,good
+galaxiani,galaxian.cpp,galaxian,1979,bootleg? (Irem),good
+galaxianm,galaxian.cpp,galaxian,1979,Namco (Midway license),good
+galaxianmo,galaxian.cpp,galaxian,1979,Namco (Midway license),good
+galaxiant,galaxian.cpp,galaxian,1979,Namco (Taito license),good
+galaxrf,galaxian.cpp,galaxian,1980,bootleg (Recreativos Franco S.A.),good
+galaxrfgg,galaxian.cpp,galaxian,1980,bootleg (Recreativos Franco S.A.),good
+galemp,galaxian.cpp,uniwars,1980,bootleg (Taito do Brasil),good
+galturbo,galaxian.cpp,galaxian,1979,hack,good
 ghostmun,galaxian.cpp,puckman,1981,bootleg (Leisure and Allied),good
 gmgalax,galaxian.cpp,,1981,bootleg,good
+gorkans,pacman.cpp,mrtnt,1983,Techstar,good
+gteikob2,galaxian.cpp,uniwars,1980,bootleg,good
+gteikokb,galaxian.cpp,uniwars,1980,bootleg,good
+gteikoku,galaxian.cpp,uniwars,1980,Irem,good
 hangly,pacman.cpp,puckman,1981,hack,good
 hangly2,pacman.cpp,puckman,1981,hack,good
 hangly3,pacman.cpp,puckman,1981,hack,good
+joyman,pacman.cpp,puckman,1982,hack,good
 jumpbug,galaxian.cpp,,1981,Hoei (Rock-Ola license),imperfect
 jumpbugb,galaxian.cpp,jumpbug,1981,bootleg,imperfect
+jumpshot,pacman.cpp,,1985,Bally Midway,good
+jumpshotp,pacman.cpp,jumpshot,1985,Bally Midway,good
+kamakazi3,galaxian.cpp,galaxian,1979,hack,good
+kingball,galaxian.cpp,,1980,Namco,good
+kingballj,galaxian.cpp,kingball,1980,Namco,good
+kong,galaxian.cpp,,198?,Taito do Brasil,preliminary
 korosuke,pacman.cpp,crush,1981,"Alpha Denshi Co. / Kural Electric, Ltd.",good
+levers,galaxian.cpp,,1983,Rock-Ola,good
+lizwiz,pacman.cpp,,1985,Techstar (Sunn license),good
+losttomb,galaxian.cpp,,1982,Stern Electronics,good
+losttombh,galaxian.cpp,losttomb,1982,Stern Electronics,good
+luctoday,galaxian.cpp,,1980,Sigma,preliminary
 maketrax,pacman.cpp,crush,1981,Alpha Denshi Co. / Kural (Williams license),good
 maketrxb,pacman.cpp,crush,1981,Alpha Denshi Co. / Kural (Williams license),good
 mbrush,pacman.cpp,crush,1981,bootleg,good
+monsterz,galaxian.cpp,,1982,Nihon Game,preliminary
+moonal2,galaxian.cpp,galaxian,1980,Namco / Nichibutsu,good
+moonal2b,galaxian.cpp,galaxian,1980,Namco / Nichibutsu,good
+moonaln,galaxian.cpp,galaxian,1979,Namco / Nichibutsu (Karateco license?),good
+mooncmw,galaxian.cpp,mooncrst,198?,bootleg,good
+mooncptc,galaxian.cpp,mooncrst,1980?,bootleg (Petaco S.A.),good
+mooncreg,galaxian.cpp,mooncrst,1980,bootleg (Electrogame S.A.),good
+mooncrgx,galaxian.cpp,mooncrst,1980,bootleg,good
+mooncrs2,galaxian.cpp,mooncrst,1980,bootleg,good
+mooncrs3,galaxian.cpp,mooncrst,1980,bootleg (Jeutel),good
+mooncrs4,galaxian.cpp,mooncrst,1980,bootleg (SG-Florence),good
+mooncrsb,galaxian.cpp,mooncrst,1980,bootleg,good
+mooncrsl,galaxian.cpp,mooncrst,1980,bootleg (Laguna S.A.),good
+mooncrst,galaxian.cpp,,1980,Nichibutsu,good
+mooncrstg,galaxian.cpp,mooncrst,1980,Nichibutsu (Gremlin license),good
+mooncrsto,galaxian.cpp,mooncrst,1980,Nichibutsu,good
+mooncrstu,galaxian.cpp,mooncrst,1980,Nichibutsu USA,good
+mooncrstuk,galaxian.cpp,mooncrst,1980,Nichibutsu UK,good
+mooncrstuku,galaxian.cpp,mooncrst,1980,Nichibutsu UK,good
+moonqsr,galaxian.cpp,,1980,Nichibutsu,good
 moonwar,galaxian.cpp,,1981,Stern Electronics,good
 moonwara,galaxian.cpp,moonwar,1981,Stern Electronics,good
+mrtnt,pacman.cpp,,1983,Techstar (Telko license),good
+mschamp,pacman.cpp,mspacman,1992,hack,good
+mschamps,pacman.cpp,mspacman,1995,hack,good
+msheartb,pacman.cpp,mspacman,1989,hack (Two-Bit Score),good
 mshuttle,galaxian.cpp,,1981,Nichibutsu,good
 mshuttle2,galaxian.cpp,mshuttle,1981,Nichibutsu,good
 mshuttlej,galaxian.cpp,mshuttle,1981,Nichibutsu,good
@@ -49,36 +156,67 @@ mspacii,pacman.cpp,mspacman,1981,bootleg (Orca),good
 mspacii2,pacman.cpp,mspacman,1981,bootleg (Orca),good
 mspacmab,pacman.cpp,mspacman,1981,bootleg,good
 mspacman,pacman.cpp,,1981,Midway / General Computer Corporation,good
+mspacmanbcc,pacman.cpp,mspacman,1991,bootleg (Tecnausa),good
+mspacmanbg,pacman.cpp,mspacman,198?,bootleg,good
+mspacmanbgd,pacman.cpp,mspacman,1992,bootleg (Datamat),good
+mspacmanblt,pacman.cpp,mspacman,1992,bootleg (Triunvi),good
 mspacmancr,pacman.cpp,mspacman,1981,bootleg,good
 mspacmat,pacman.cpp,mspacman,1981,hack,good
 mspacmbe,pacman.cpp,mspacman,1981,bootleg,good
 mspacmnf,pacman.cpp,mspacman,1981,hack,good
 mspacpls,pacman.cpp,mspacman,1981,hack,good
+newpuc2,pacman.cpp,puckman,1980,hack,good
+newpuc2b,pacman.cpp,puckman,1980,hack,good
+newpuckx,pacman.cpp,puckman,1980,hack,good
 nmouse,pacman.cpp,,1981,Amenip (Palcom Queen River),good
 nmouseb,pacman.cpp,nmouse,1981,Amenip Nova Games Ltd.,good
+numcrash,pacman.cpp,,1983,Hanshin Goraku,preliminary
+omega,galaxian.cpp,theend,19??,bootleg?,good
+omni,galaxian.cpp,pisces,19??,bootleg,good
+orbitron,galaxian.cpp,,1982,Signatron USA,good
 pacgal,pacman.cpp,mspacman,1981,hack,good
 pacheart,pacman.cpp,puckman,1981,hack,good
+pacman,pacman.cpp,puckman,1980,Namco (Midway license),good
 pacmanbl,galaxian.cpp,puckman,1981,bootleg,good
 pacmanbla,galaxian.cpp,puckman,1981,bootleg,good
+pacmanf,pacman.cpp,puckman,1980,hack,good
 pacmanjpm,pacman.cpp,puckman,1981,bootleg (JPM),good
+pacmansp,pacman.cpp,puckman,198?,bootleg,good
 pacmod,pacman.cpp,puckman,1981,Namco (Midway license),good
+pacplus,pacman.cpp,,1982,Namco (Midway license),good
+pacuman,pacman.cpp,puckman,1980,bootleg (Recreativos Franco S.A.),good
 paintrlr,pacman.cpp,crush,1981,bootleg,good
+pajaroes,galaxian.cpp,uniwars,1980,bootleg (PSV S.A.),good
 pengojpm,pacman.cpp,pengo,1981,bootleg,good
 pengopac,pacman.cpp,pengo,1981,bootleg,good
 phoenxp2,galaxian.cpp,phoenix,1981,bootleg,good
 piranha,pacman.cpp,puckman,1981,GL (US Billiards license),good
 piranhah,pacman.cpp,puckman,1981,hack,good
 piranhao,pacman.cpp,puckman,1981,GL (US Billiards license),good
+pisces,galaxian.cpp,,19??,Subelectro,good
+piscesb,galaxian.cpp,pisces,19??,bootleg,good
+ponpoko,pacman.cpp,,1982,Sigma Enterprises Inc.,good
+ponpokov,pacman.cpp,ponpoko,1982,Sigma Enterprises Inc. (Venture Line license),good
 popeyeman,pacman.cpp,puckman,1981,hack,good
+porky,pacman.cpp,,1985,Shinkai Inc. (Magic Electronics Inc. license),good
+puckman,pacman.cpp,,1980,Namco,good
+puckmanb,pacman.cpp,puckman,1980,bootleg,good
+puckmanf,pacman.cpp,puckman,1980,hack,good
+puckmanh,pacman.cpp,puckman,1980,bootleg (Falcom?),good
 puckmod,pacman.cpp,puckman,1981,Namco,good
 quaak,galaxian.cpp,frogger,1981,bootleg,good
 redufo,galaxian.cpp,,1981,Artic,good
 redufob,galaxian.cpp,redufo,1981,bootleg,good
+rocktrv2,pacman.cpp,,1986,Triumph Software Inc.,good
 scobra,galaxian.cpp,,1981,Konami,good
 scobrab,galaxian.cpp,scobra,1981,bootleg,good
 scobrae,galaxian.cpp,scobra,1981,Konami (Stern Electronics license),good
 scobras,galaxian.cpp,scobra,1981,Konami (Stern Electronics license),good
 scobrase,galaxian.cpp,scobra,1981,Konami (Sega license),good
+scorpion,galaxian.cpp,,1982,Zaccaria,imperfect
+scorpiona,galaxian.cpp,scorpion,1982,Zaccaria,imperfect
+scorpionb,galaxian.cpp,scorpion,1982,Zaccaria,imperfect
+scorpionmc,galaxian.cpp,scorpion,19??,bootleg? (Dorneer),good
 scramble,galaxian.cpp,,1981,Konami,good
 scramblebb,galaxian.cpp,scramble,1981,bootleg?,good
 scramblebf,galaxian.cpp,scramble,1981,bootleg (Karateko),good
@@ -88,13 +226,59 @@ scrambp,galaxian.cpp,scramble,1981,bootleg (Billport S.A.),good
 scramce,galaxian.cpp,scramble,1981,bootleg (Centromatic S.A.),good
 scrampt,galaxian.cpp,scramble,1981,bootleg (Petaco S.A.),good
 scramrf,galaxian.cpp,scramble,1981,bootleg (Recreativos Franco),good
+sfx,galaxian.cpp,,1983,Nichibutsu,good
+shootbul,pacman.cpp,,1985,Bally Midway,good
+skelagon,galaxian.cpp,sfx,1983,Nichibutsu USA,preliminary
+skybase,galaxian.cpp,,1982,"Omori Electric Co., Ltd.",good
+skyraidr,galaxian.cpp,uniwars,1980,bootleg,good
+smooncrs,galaxian.cpp,mooncrst,1980?,Nichibutsu (Gremlin license),good
+spacbat2,galaxian.cpp,uniwars,1980,bootleg,good
+spacbatt,galaxian.cpp,uniwars,1980,bootleg,good
+spacempr,galaxian.cpp,uniwars,1980,bootleg,good
 spactrai,galaxian.cpp,warofbug,1981,Celv,imperfect
+spcdrag,galaxian.cpp,mooncrst,1980,bootleg,good
+spcdraga,galaxian.cpp,mooncrst,1980,bootleg,good
+spctbird,galaxian.cpp,mooncrst,1981?,bootleg? (Fortrek),good
+spdcoin,galaxian.cpp,,1984,Stern Electronics,good
+sprglbpg,pacman.cpp,suprglob,1983,bootleg,good
+sprglobp,pacman.cpp,suprglob,1983,Epos Corporation,good
+sstarcrs,galaxian.cpp,mooncrst,1980?,Nichibutsu (Taito do Brasil license),good
+starfght,galaxian.cpp,galaxian,1979,bootleg (Jeutel),good
+starfgmc,galaxian.cpp,mooncrst,198?,bootleg (Samyra Engineering),good
+stera,galaxian.cpp,mooncrst,1980,bootleg,good
+streakng,galaxian.cpp,,1980,Shoei,imperfect
+streaknga,galaxian.cpp,streakng,1980,Shoei,imperfect
 strfbomb,galaxian.cpp,scramble,1981,bootleg (Omni),good
+superabc,pacman.cpp,,1999,hack (Two-Bit Score),good
+superabco,pacman.cpp,superabc,1999,hack (Two-Bit Score),good
+superbon,galaxian.cpp,,1985,Signatron USA,preliminary
+superg,galaxian.cpp,galaxian,1979,hack,good
+supergs,galaxian.cpp,galaxian,1979,hack,good
+supergx,galaxian.cpp,galaxian,1980,Namco / Nichibutsu,preliminary
 suprheli,galaxian.cpp,scobra,1981,bootleg,good
+swarm,galaxian.cpp,galaxian,1979,bootleg? (Subelectro),good
+tazmania,galaxian.cpp,,1982,Stern Electronics,good
+tdpgal,galaxian.cpp,,1983,Design Labs / Thomas Automatics,good
+tenspot,galaxian.cpp,,1982,Thomas Automatics,preliminary
+theend,galaxian.cpp,,1980,Konami,good
+theendb,galaxian.cpp,theend,1980,bootleg?,preliminary
+theends,galaxian.cpp,theend,1980,Konami (Stern Electronics license),good
+theglobp,pacman.cpp,suprglob,1983,Epos Corporation,good
+thepitm,galaxian.cpp,thepit,198?,bootleg (KZH),good
+timefgtr,galaxian.cpp,,198?,Taito do Brasil,preliminary
+tst_galx,galaxian.cpp,galaxian,19??,<unknown>,good
 turpin,galaxian.cpp,turtles,1981,Konami (Sega license),good
 turtles,galaxian.cpp,,1981,Konami (Stern Electronics license),good
+uniwars,galaxian.cpp,,1980,Irem,good
+vanvan,pacman.cpp,,1983,Sanritsu,good
+vanvanb,pacman.cpp,vanvan,1983,Sanritsu (Karateco license?),good
+vanvank,pacman.cpp,vanvan,1983,Sanritsu (Karateco license?),good
 warofbug,galaxian.cpp,,1981,Armenia / Food and Fun Corp,good
 warofbugg,galaxian.cpp,warofbug,1981,Armenia,preliminary
 warofbugu,galaxian.cpp,warofbug,1981,Armenia / Super Video Games,good
 woodpeca,pacman.cpp,woodpeck,1981,Amenip,good
 woodpeck,pacman.cpp,,1981,Amenip (Palcom Queen River),good
+zerotime,galaxian.cpp,galaxian,1979,bootleg? (Petaco S.A.),good
+zerotimed,galaxian.cpp,galaxian,1979,bootleg (Datamat),good
+zigzagb,galaxian.cpp,,1982,bootleg (LAX),good
+zigzagb2,galaxian.cpp,zigzagb,1982,bootleg (LAX),good
