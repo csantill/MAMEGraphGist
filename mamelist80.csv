@@ -1,103 +1,14 @@
 name,sourcefile,cloneof,year,manufacturer,status
-005,segag80r.cpp,,1981,Sega,imperfect
-4in1,galaxold.cpp,,1981,Armenia / Food and Fun,imperfect
 600,galaxian.cpp,turtles,1981,Konami,good
-800fath,scramble.cpp,mariner,1981,Amenip (US Billiards Inc. license),imperfect
-abc800c,abc80x.cpp,,1981,Luxor Datorer AB,good
-abc800m,abc80x.cpp,abc800c,1981,Luxor Datorer AB,good
 abscam,pacman.cpp,puckman,1981,GL (US Billiards license),good
-aim65_40,aim65_40.cpp,,1981,Rockwell,preliminary
-alcapone,ltd.cpp,,1981,LTD,preliminary
-alnattck,hh_hmcs40.cpp,,1981,Coleco,good
-altair,cidelsa.cpp,,1981,Cidelsa,imperfect
 amidar1,galaxian.cpp,amidar,1981,Konami,good
 armorcar,galaxian.cpp,,1981,Stern Electronics,good
 armorcar2,galaxian.cpp,armorcar,1981,Stern Electronics,good
-astrob,segag80r.cpp,,1981,Sega,imperfect
-astrob1,segag80r.cpp,astrob,1981,Sega,preliminary
-astrob2,segag80r.cpp,astrob,1981,Sega,imperfect
-astrob2a,segag80r.cpp,astrob,1981,Sega,imperfect
-astrobg,segag80r.cpp,astrob,1981,Sega,imperfect
-atla_ltd,ltd.cpp,,1981,LTD,preliminary
 atlantis,galaxian.cpp,,1981,Comsoft,good
 atlantis2,galaxian.cpp,atlantis,1981,Comsoft,good
 atlantisb,galaxian.cpp,atlantis,1981,bootleg,good
-bagmanf,cclimber.cpp,bagman,1981,bootleg,preliminary
-barra_l1,s7.cpp,,1981,Williams,preliminary
 batman2,galaxian.cpp,phoenix,1981,bootleg,good
-bbca,bbc.cpp,bbcb,1981,Acorn,imperfect
-bbcb,bbc.cpp,,1981,Acorn,imperfect
-bhol_ltd,ltd.cpp,,1981,LTD,preliminary
-bigkong,cclimber.cpp,ckong,1981,bootleg,good
-billiard,scobra.cpp,hustler,1981,bootleg,good
-bitgrpha,bitgraph.cpp,,1981,BBN,good
-blckhole,gts80.cpp,,1981,Gottlieb,preliminary
-blckhole2,gts80.cpp,blckhole,1981,Gottlieb,preliminary
-blckhols,gts80.cpp,,1981,Gottlieb,preliminary
 blkhole,galaxian.cpp,,1981,TDS & MINTS,good
-bmsafari,hh_ucom4.cpp,,1981,Bambino,good
-bosco,galaga.cpp,,1981,Namco,imperfect
-boscomd,galaga.cpp,bosco,1981,Namco (Midway license),imperfect
-boscomdo,galaga.cpp,bosco,1981,Namco (Midway license),imperfect
-boscoo,galaga.cpp,bosco,1981,Namco,imperfect
-boscoo2,galaga.cpp,bosco,1981,Namco,imperfect
-boxingb,cinemat.cpp,,1981,Cinematronics,imperfect
-brdrlinb,vicdual.cpp,brdrline,1981,bootleg (Karateco),preliminary
-brdrline,vicdual.cpp,,1981,Sega,preliminary
-brdrlinet,vicdual.cpp,brdrline,1981,Sega,preliminary
-brdrlins,vicdual.cpp,brdrline,1981,bootleg (Sidam),preliminary
-capitol,phoenix.cpp,pleiads,1981,bootleg? (Universal Video Spiel),imperfect
-castfant,decocass.cpp,,1981,Data East Corporation,good
-catacomp,st_mp200.cpp,,1981,Stern,preliminary
-caveman,gts80a.cpp,,1981,Gottlieb,preliminary
-cavemana,gts80a.cpp,caveman,1981,Gottlieb,preliminary
-cavenger,ladybug.cpp,,1981,Universal,good
-cavnegro,taito.cpp,,1981,Taito do Brasil,preliminary
-cavnegro1,taito.cpp,cavnegro,1981,Taito do Brasil,preliminary
-cavnegro2,taito.cpp,cavnegro,1981,Taito do Brasil,preliminary
-cbm8032,pet.cpp,pet8032,1981,Commodore Business Machines,good
-cbm8032_de,pet.cpp,pet8032,1981,Commodore Business Machines,good
-cbm8032_fr,pet.cpp,pet8032,1981,Commodore Business Machines,preliminary
-cbm8032_se,pet.cpp,pet8032,1981,Commodore Business Machines,good
-cbm8096,pet.cpp,pet8032,1981,Commodore Business Machines,good
-cdc721,cdc721.cpp,,1981,Control Data Corporation,preliminary
-cdsteljn,decocass.cpp,,1981,Data East Corporation,good
-centaur,by35.cpp,,1981,Bally,preliminary
-cfrogger,hh_melps4.cpp,,1981,Coleco,good
-challeng,gameplan.cpp,,1981,Game Plan (Centuri license),good
-ckong,cclimber.cpp,,1981,Kyoei / Falcon,good
-ckongalc,cclimber.cpp,ckong,1981,bootleg (Alca),good
-ckongdks,cclimber.cpp,ckong,1981,bootleg,good
-ckongg,galaxold.cpp,ckong,1981,bootleg,good
-ckonggx,galaxold.cpp,ckong,1981,bootleg,good
-ckongmc,galaxold.cpp,ckong,1981,bootleg,good
-ckongo,cclimber.cpp,ckong,1981,bootleg (Orca),good
-ckongpt2,cclimber.cpp,,1981,Falcon,good
-ckongpt2a,cclimber.cpp,ckongpt2,1981,Falcon,good
-ckongpt2b,cclimber.cpp,ckongpt2,1981,bootleg,good
-ckongpt2j,cclimber.cpp,ckongpt2,1981,Falcon,good
-ckongpt2jeu,cclimber.cpp,ckongpt2,1981,bootleg (Jeutel),good
-ckongs,scramble.cpp,ckong,1981,bootleg,good
-clocknch,decocass.cpp,,1981,Data East Corporation,good
-cluckypo,decocass.cpp,,1981,Data East Corporation,good
-cm1800,cm1800.cpp,,1981,<unknown>,good
-cmanhat,decocass.cpp,,1981,Data East Corporation,imperfect
-cocoe,coco12.cpp,coco,1981,Tandy Radio Shack,good
-colony7,williams.cpp,,1981,Taito,good
-colony7a,williams.cpp,colony7,1981,Taito,good
-comg074,calomega.cpp,,1981,Cal Omega Inc.,good
-comg076,calomega.cpp,,1981,Cal Omega Inc.,good
-comg079,calomega.cpp,,1981,Cal Omega Inc.,preliminary
-comg080,calomega.cpp,,1981,Cal Omega Inc.,good
-comg094,calomega.cpp,,1981,Cal Omega Inc.,preliminary
-condor,phoenix.cpp,phoenix,1981,bootleg,good
-cosmic,taito.cpp,,1981,Taito do Brasil,preliminary
-cosmos,cvs.cpp,,1981,Century Electronics,imperfect
-cowboy,ltd.cpp,,1981,LTD,preliminary
-cpacman,hh_hmcs40.cpp,,1981,Coleco,good
-cpacmanr1,hh_hmcs40.cpp,cpacman,1981,Coleco,good
-cprogolf,decocass.cpp,,1981,Data East Corporation,good
-cprogolfj,decocass.cpp,cprogolf,1981,Data East Corporation,good
 crush,pacman.cpp,,1981,"Alpha Denshi Co. / Kural Samno Electric, Ltd.",good
 crush2,pacman.cpp,crush,1981,"Alpha Denshi Co. / Kural Esco Electric, Ltd.",good
 crush3,pacman.cpp,crush,1981,"Alpha Denshi Co. / Kural Electric, Ltd.",good
@@ -107,77 +18,7 @@ crushbl2,pacman.cpp,crush,1981,bootleg,good
 crushbl3,pacman.cpp,crush,1981,bootleg,good
 crushrlf,pacman.cpp,crush,1981,bootleg,good
 crushs,pacman.cpp,crush,1981,bootleg (Sidam),good
-csuperas,decocass.cpp,,1981,Data East Corporation,good
-cterrani,decocass.cpp,,1981,Data East Corporation,good
-ctisland,decocass.cpp,,1981,Data East Corporation,good
-ctisland2,decocass.cpp,ctisland,1981,Data East Corporation,good
-ctisland3,decocass.cpp,ctisland,1981,Data East Corporation,preliminary
-ctsttape,decocass.cpp,,1981,Data East Corporation,good
-dambustr,dambustr.cpp,,1981,South West Research,good
-dambustra,dambustr.cpp,dambustr,1981,South West Research,good
-dambustruk,dambustr.cpp,dambustr,1981,South West Research,good
-darkwar,cvs.cpp,,1981,Century Electronics,imperfect
-decocass,decocass.cpp,,1981,Data East Corporation,good
-defence,williams.cpp,defender,1981,bootleg (Outer Limits),good
-deltrace,omegrace.cpp,omegrace,1981,bootleg (Allied Leisure),good
-demoneye,redalert.cpp,,1981,Irem,preliminary
-dking,cclimber.cpp,ckong,1981,bootleg,good
-dkong,dkong.cpp,,1981,Nintendo of America,good
-dkonghrd,dkong.cpp,dkong,1981,Nintendo of America,good
-dkongj,dkong.cpp,dkong,1981,Nintendo,good
-dkongjo,dkong.cpp,dkong,1981,Nintendo,good
-dkongjo1,dkong.cpp,dkong,1981,Nintendo,good
-dkongo,dkong.cpp,dkong,1981,Nintendo,good
-draco,cidelsa.cpp,,1981,Cidelsa,imperfect
-dual68,dual68.cpp,,1981,Dual Systems Corporation,preliminary
-dvlsdre,gts80a.cpp,,1981,Gottlieb,preliminary
-dvlsdre2,gts80a.cpp,,1981,Gottlieb,preliminary
-dwarfd,dwarfd.cpp,,1981,Electro-Sport,preliminary
-dwarfda,dwarfd.cpp,dwarfd,1981,Electro-Sport,preliminary
-eballd14,by35.cpp,eballdlx,1981,Bally,preliminary
-eballdlx,by35.cpp,,1981,Bally,preliminary
-eballdlxp1,by68701.cpp,eballdlx,1981,Bally,preliminary
-eballdlxp2,by68701.cpp,eballdlx,1981,Bally,preliminary
-eballdlxp3,by68701.cpp,eballdlx,1981,Bally,preliminary
-eballdlxp4,by68701.cpp,eballdlx,1981,Bally,preliminary
-eclipse,gts80.cpp,,1981,Gottlieb,preliminary
-egalaxn2,hh_hmcs40.cpp,,1981,Entex,good
-einvaderc,hh_cop400.cpp,einvader,1981,Entex,preliminary
-elektra,by35.cpp,,1981,Bally,preliminary
-elim2,segag80v.cpp,,1981,Gremlin,imperfect
-elim2a,segag80v.cpp,elim2,1981,Gremlin,imperfect
-elim2c,segag80v.cpp,elim2,1981,Gremlin,imperfect
-elim4,segag80v.cpp,elim2,1981,Gremlin,imperfect
-elim4p,segag80v.cpp,elim2,1981,Gremlin,imperfect
-embryon,by35.cpp,,1981,Bally,preliminary
-empsback,hankin.cpp,,1981,Hankin,preliminary
-enigma2,enigma2.cpp,,1981,Game Plan (Zilec Electronics license),good
-enigma2b,enigma2.cpp,enigma2,1981,Zilec Electronics,good
-epacman2,hh_hmcs40.cpp,,1981,Entex,good
-eti660,eti660.cpp,,1981,Electronics Today International,good
-ewf,zac_1.cpp,,1981,Zaccaria,preliminary
 explorer,galaxian.cpp,scramble,1981,bootleg (Sidam),good
-fantasy,snk6502.cpp,,1981,SNK,imperfect
-fantasyj,snk6502.cpp,fantasy,1981,SNK,imperfect
-fantasyu,snk6502.cpp,fantasy,1981,SNK (Rock-Ola license),imperfect
-fathom,by35.cpp,,1981,Bally,preliminary
-fball_ii,by35.cpp,,1981,Bally,preliminary
-fireact,taito.cpp,,1981,Taito do Brasil,preliminary
-fitter,thepit.cpp,roundup,1981,Taito Corporation,good
-fitterbl,thepit.cpp,roundup,1981,bootleg,good
-flashgdn,by35.cpp,,1981,Bally,preliminary
-flashgdnf,by35.cpp,flashgdn,1981,Bally,preliminary
-flashgdnp1,by68701.cpp,flashgdn,1981,Bally,preliminary
-flashgdnp2,by68701.cpp,flashgdn,1981,Bally,preliminary
-flashgdnv,by35.cpp,flashgdn,1981,Bally,preliminary
-fm8,fm7.cpp,,1981,Fujitsu,good
-fnkyfish,kangaroo.cpp,,1981,Sun Electronics,good
-forceii,gts80.cpp,,1981,Gottlieb,preliminary
-freefall,st_mp200.cpp,,1981,Stern,preliminary
-frenzy,berzerk.cpp,,1981,Stern Electronics,good
-friskyt,seicross.cpp,,1981,Nichibutsu,good
-friskyta,seicross.cpp,friskyt,1981,Nichibutsu,good
-friskytb,seicross.cpp,friskyt,1981,Nichibutsu,good
 frogf,galaxian.cpp,frogger,1981,bootleg (Falcon),good
 frogg,galaxian.cpp,frogger,1981,bootleg,good
 frogger,galaxian.cpp,,1981,Konami,good
@@ -186,103 +27,20 @@ froggermc,galaxian.cpp,frogger,1981,Konami (Sega license),good
 froggers,galaxian.cpp,frogger,1981,bootleg,good
 froggers1,galaxian.cpp,frogger,1981,Konami (Sega license),good
 froggers2,galaxian.cpp,frogger,1981,Konami (Sega license),good
-froggerv,galaxold.cpp,frogger,1981,bootleg (Videotron / Gamepack),good
 froggrs,galaxian.cpp,frogger,1981,bootleg (Coin Music),good
-fspiderb,jollyjgr.cpp,,1981,Taito Corporation,good
-funcsino,statriv2.cpp,,1981,Status Games,good
-futflash,laserbas.cpp,laserbas,1981,Hoei,preliminary
-galaga,galaga.cpp,,1981,Namco,imperfect
-galagamf,galaga.cpp,galaga,1981,Namco (Midway license),imperfect
-galagamk,galaga.cpp,galaga,1981,Namco (Midway license),imperfect
-galagamw,galaga.cpp,galaga,1981,Namco (Midway license),imperfect
-galagao,galaga.cpp,galaga,1981,Namco,imperfect
-galaxy2,hh_ucom4.cpp,,1981,Epoch,good
-galeb,galeb.cpp,,1981,PEL Varazdin,good
-gallag,galaga.cpp,galaga,1981,bootleg,imperfect
 ghostmun,galaxian.cpp,puckman,1981,bootleg (Leisure and Allied),good
 gmgalax,galaxian.cpp,,1981,bootleg,good
-goldnpkb,goldnpkr.cpp,goldnpkr,1981,"Bonanza Enterprises, Ltd",good
-goldnpkr,goldnpkr.cpp,,1981,"Bonanza Enterprises, Ltd",good
-gomoku,gomoku.cpp,,1981,Nichibutsu,good
-gorf,astrocde.cpp,,1981,Dave Nutting Associates / Midway,imperfect
-gorfpgm1,astrocde.cpp,gorf,1981,Dave Nutting Associates / Midway,imperfect
-gorfpgm1g,astrocde.cpp,gorf,1981,Dave Nutting Associates / Midway,imperfect
-gotya,gotya.cpp,thehand,1981,Game-A-Tron,imperfect
-grchamp,grchamp.cpp,,1981,Taito,imperfect
-gwarfare,gp_2.cpp,,1981,Game Plan,preliminary
 hangly,pacman.cpp,puckman,1981,hack,good
 hangly2,pacman.cpp,puckman,1981,hack,good
 hangly3,pacman.cpp,puckman,1981,hack,good
-hp9845c,hp9845.cpp,hp9845b,1981,Hewlett-Packard,preliminary
-hunter2,hunter2.cpp,,1981,Husky,preliminary
-hustler,scobra.cpp,,1981,Konami,good
-hustlerb,scobra.cpp,hustler,1981,bootleg (Digimatic),good
-hustlerb2,scobra.cpp,hustler,1981,bootleg,good
-hustlerb3,galaxold.cpp,hustler,1981,bootleg (Videotron),good
-hustlerb4,scobra.cpp,hustler,1981,bootleg,good
-hustlerd,scobra.cpp,hustler,1981,Konami (Dynamo Games license),good
-hypbl_l2,s7.cpp,hypbl_l4,1981,Williams,preliminary
-hypbl_l4,s7.cpp,,1981,Williams,preliminary
-ibm5150,ibmpc.cpp,,1981,International Business Machines,good
-intvkbd,intv.cpp,intv,1981,Mattel,preliminary
-intvsrs,intv.cpp,intv,1981,Sears,good
-ironmaid,st_mp200.cpp,,1981,Stern,preliminary
-janputer,royalmah.cpp,,1981,bootleg (Public Software Ltd. / Mes),good
-jngld_l1,s7.cpp,jngld_l2,1981,Williams,preliminary
-jngld_l2,s7.cpp,,1981,Williams,preliminary
-jr100,jr100.cpp,,1981,National,good
-jr100u,jr100.cpp,jr100,1981,Panasonic,good
 jumpbug,galaxian.cpp,,1981,Hoei (Rock-Ola license),imperfect
 jumpbugb,galaxian.cpp,jumpbug,1981,bootleg,imperfect
-jungler,rallyx.cpp,,1981,Konami,good
-junglers,rallyx.cpp,jungler,1981,Konami (Stern Electronics license),good
-jupace,jupace.cpp,,1981,Jupiter Cantab,good
-kaos,gameplan.cpp,,1981,Game Plan,good
-kick,mcr.cpp,,1981,Midway,good
-kickc,mcr.cpp,kick,1981,Midway,good
-kickman,mcr.cpp,kick,1981,Midway,good
-kingdrby,kingdrby.cpp,,1981,Tazmi,imperfect
-kopunch,kopunch.cpp,,1981,Sega,preliminary
 korosuke,pacman.cpp,crush,1981,"Alpha Denshi Co. / Kural Electric, Ltd.",good
-ladybgb2,ladybug.cpp,ladybug,1981,bootleg,good
-ladybug,ladybug.cpp,,1981,Universal,good
-ladybugb,ladybug.cpp,ladybug,1981,bootleg,good
-ladylukt,taito.cpp,,1981,Taito do Brasil,preliminary
-laserbas,laserbas.cpp,,1981,Hoei (Amstar license),preliminary
-laserbasa,laserbas.cpp,laserbas,1981,Hoei (Amstar license),preliminary
-laserbat,laserbat.cpp,,1981,Zaccaria,imperfect
-lazarian,laserbat.cpp,laserbat,1981,Zaccaria (Bally Midway license),imperfect
-lightfgt,hh_cop400.cpp,,1981,Milton Bradley,good
-lightnin,st_mp200.cpp,,1981,Stern,preliminary
-lnc,btime.cpp,,1981,Data East Corporation,good
-lnw80,trs80.cpp,trs80,1981,LNW Research,good
-locomotp,zac_1.cpp,,1981,Zaccaria,preliminary
-m20,m20.cpp,,1981,Olivetti,preliminary
-m40,m20.cpp,m20,1981,Olivetti,preliminary
 maketrax,pacman.cpp,crush,1981,Alpha Denshi Co. / Kural (Williams license),good
 maketrxb,pacman.cpp,crush,1981,Alpha Denshi Co. / Kural (Williams license),good
-marinedt,marinedt.cpp,,1981,Taito,preliminary
-mariner,scramble.cpp,,1981,Amenip,imperfect
-mars,scramble.cpp,,1981,Artic,good
-marsp,gts80.cpp,,1981,Gottlieb,preliminary
-mazeinv,centiped.cpp,,1981,Atari,good
-mbdtower,mbdtower.cpp,,1981,Milton Bradley,preliminary
 mbrush,pacman.cpp,crush,1981,bootleg,good
-mccpm,mccpm.cpp,,1981,GRAF Elektronik Systeme GmbH,preliminary
-medusa,by35.cpp,,1981,Bally,preliminary
-meteor,spcforce.cpp,spcforce,1981,Venture Line,imperfect
-mgames,mgames.cpp,,1981,Merit,preliminary
-micral,micral.cpp,,1981,Bull R2E,preliminary
-mm1m6,mikromik.cpp,,1981,Nokia Data,good
-mm1m7,mikromik.cpp,mm1m6,1981,Nokia Data,good
-mmf9000,pet.cpp,pet8032,1981,Commodore Business Machines,preliminary
-mmf9000_se,pet.cpp,pet8032,1981,Commodore Business Machines,preliminary
-monkeyd,cclimber.cpp,ckong,1981,bootleg,good
-monzagp,monzagp.cpp,,1981,Olympia,preliminary
-monzagpb,monzagp.cpp,monzagp,1981,bootleg,preliminary
 moonwar,galaxian.cpp,,1981,Stern Electronics,good
 moonwara,galaxian.cpp,moonwar,1981,Stern Electronics,good
-moonwarp,berzerk.cpp,,1981,Stern Electronics,good
 mshuttle,galaxian.cpp,,1981,Nichibutsu,good
 mshuttle2,galaxian.cpp,mshuttle,1981,Nichibutsu,good
 mshuttlej,galaxian.cpp,mshuttle,1981,Nichibutsu,good
@@ -296,227 +54,47 @@ mspacmat,pacman.cpp,mspacman,1981,hack,good
 mspacmbe,pacman.cpp,mspacman,1981,bootleg,good
 mspacmnf,pacman.cpp,mspacman,1981,hack,good
 mspacpls,pacman.cpp,mspacman,1981,hack,good
-mtrap,exidy.cpp,,1981,Exidy,good
-mtrap3,exidy.cpp,mtrap,1981,Exidy,good
-mtrap4,exidy.cpp,mtrap,1981,Exidy,good
-mtrapb,exidy.cpp,mtrap,1981,bootleg,good
-mycom,mycom.cpp,,1981,Japan Electronics College,preliminary
-mz80b,mz80.cpp,,1981,Sharp,preliminary
-newbrain,newbrain.cpp,,1981,Grundy Business Systems Ltd,preliminary
-newbraina,newbrain.cpp,newbrain,1981,Grundy Business Systems Ltd,preliminary
-newbraineim,newbrain.cpp,newbrain,1981,Grundy Business Systems Ltd,preliminary
-newbrainmd,newbrain.cpp,newbrain,1981,Grundy Business Systems Ltd,preliminary
-nextfase,phoenix.cpp,phoenix,1981,bootleg (Petaco S.A.),good
 nmouse,pacman.cpp,,1981,Amenip (Palcom Queen River),good
 nmouseb,pacman.cpp,nmouse,1981,Amenip Nova Games Ltd.,good
-nrallyx,rallyx.cpp,,1981,Namco,imperfect
-nrallyxb,rallyx.cpp,nrallyx,1981,Namco,imperfect
-olibochu,olibochu.cpp,,1981,Irem / GDI,preliminary
-omegrace,omegrace.cpp,,1981,Midway,good
-omegrace2,omegrace.cpp,omegrace,1981,Midway,good
-osborne1,osborne1.cpp,,1981,Osborne,good
 pacgal,pacman.cpp,mspacman,1981,hack,good
 pacheart,pacman.cpp,puckman,1981,hack,good
-packmon,hh_hmcs40.cpp,,1981,Bandai,good
 pacmanbl,galaxian.cpp,puckman,1981,bootleg,good
 pacmanbla,galaxian.cpp,puckman,1981,bootleg,good
 pacmanjpm,pacman.cpp,puckman,1981,bootleg (JPM),good
 pacmod,pacman.cpp,puckman,1981,Namco (Midway license),good
 paintrlr,pacman.cpp,crush,1981,bootleg,good
-panther,redalert.cpp,,1981,Irem,preliminary
-pc6001,pc6001.cpp,,1981,Nippon Electronic Company,preliminary
-pc6001a,pc6001.cpp,pc6001,1981,Nippon Electronic Company,preliminary
-pc8801,pc8801.cpp,,1981,Nippon Electronic Company,preliminary
-pecmen,ltd.cpp,,1981,LTD,preliminary
-pegasus,pegasus.cpp,,1981,Technosys,good
-pegasusm,pegasus.cpp,pegasus,1981,Technosys,good
 pengojpm,pacman.cpp,pengo,1981,bootleg,good
 pengopac,pacman.cpp,pengo,1981,bootleg,good
-percuss,zodiack.cpp,,1981,Orca,good
-pharo_l2,s7.cpp,,1981,Williams,preliminary
-phoenixass,phoenix.cpp,phoenix,1981,bootleg (Assa),good
-phoenixc,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),good
-phoenixc2,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),good
-phoenixc3,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),good
-phoenixc4,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),good
-phoenixs,phoenix.cpp,phoenix,1981,bootleg (Sonic),good
 phoenxp2,galaxian.cpp,phoenix,1981,bootleg,good
 piranha,pacman.cpp,puckman,1981,GL (US Billiards license),good
 piranhah,pacman.cpp,puckman,1981,hack,good
 piranhao,pacman.cpp,puckman,1981,GL (US Billiards license),good
-pleiadbl,phoenix.cpp,pleiads,1981,bootleg,imperfect
-pleiadce,phoenix.cpp,pleiads,1981,Tehkan (Centuri license),imperfect
-pleiads,phoenix.cpp,,1981,Tehkan,imperfect
-pleiadsb2,phoenix.cpp,pleiads,1981,bootleg (ESG),good
-pleiadsi,phoenix.cpp,pleiads,1981,bootleg? (Irecsa),imperfect
-pleiadss,phoenix.cpp,pleiads,1981,bootleg,good
-pmpoker,goldnpkr.cpp,,1981,PM / Beck Elektronik,good
-pnkpnthr,gts80.cpp,,1981,Gottlieb,preliminary
-polarisbr,8080bw.cpp,polaris,1981,Taito do Brasil,good
-poly1,poly.cpp,,1981,Polycorp,preliminary
 popeyeman,pacman.cpp,puckman,1981,hack,good
-pro80,pro80.cpp,,1981,Protec,preliminary
-progolf,progolf.cpp,,1981,Data East Corporation,imperfect
-progolfa,progolf.cpp,progolf,1981,Data East Corporation,preliminary
 puckmod,pacman.cpp,puckman,1981,Namco,good
-pulsar,vicdual.cpp,,1981,Sega,imperfect
-pulsarlb,pulsar.cpp,,1981,Pulsar,good
-pushover,summit.cpp,,1981,Summit Coin,preliminary
-qix,qix.cpp,,1981,Taito America Corporation,good
-qix2,qix.cpp,qix,1981,Taito America Corporation,good
-qixa,qix.cpp,qix,1981,Taito America Corporation,good
-qixb,qix.cpp,qix,1981,Taito America Corporation,good
-qixo,qix.cpp,qix,1981,Taito America Corporation,good
 quaak,galaxian.cpp,frogger,1981,bootleg,good
-redalert,redalert.cpp,,1981,Irem (GDI license),imperfect
-redclash,redclash.cpp,,1981,Tehkan,preliminary
-redclasha,redclash.cpp,redclash,1981,Tehkan,preliminary
-redclashk,redclash.cpp,redclash,1981,Tehkan (Kaneko license),preliminary
 redufo,galaxian.cpp,,1981,Artic,good
 redufob,galaxian.cpp,redufo,1981,bootleg,good
-robby,astrocde.cpp,,1981,Dave Nutting Associates / Bally Midway,good
-rockclim,galaxold.cpp,,1981,Taito,good
-roundup,thepit.cpp,,1981,Taito Corporation (Amenip/Centuri license),good
-route16,route16.cpp,,1981,Tehkan / Sun Electronics (Centuri license),good
-route16a,route16.cpp,route16,1981,Tehkan / Sun Electronics (Centuri license),good
-route16bl,route16.cpp,route16,1981,bootleg (Leisure and Allied),good
-route16c,route16.cpp,route16,1981,Tehkan / Sun Electronics (Centuri license),good
-routex,route16.cpp,route16,1981,bootleg,good
-royalmj,royalmah.cpp,,1981,Nichibutsu,good
-rpatrol,cclimber.cpp,,1981,Orca,good
-rpatrolb,cclimber.cpp,rpatrol,1981,bootleg,good
-s80tst,gts80.cpp,,1981,Gottlieb,preliminary
-satansat,snk6502.cpp,,1981,SNK,imperfect
-satansata,snk6502.cpp,satansat,1981,SNK,imperfect
-satansatind,snk6502.cpp,satansat,1981,bootleg (Inder S.A.),imperfect
-sbrain,sbrain.cpp,,1981,Intertec,preliminary
-sbugger,sbugger.cpp,,1981,Game-A-Tron,preliminary
-sbuggera,sbugger.cpp,sbugger,1981,Game-A-Tron,preliminary
-sc2,sc2.cpp,,1981,VEB Mikroelektronik Erfurt,good
 scobra,galaxian.cpp,,1981,Konami,good
 scobrab,galaxian.cpp,scobra,1981,bootleg,good
 scobrae,galaxian.cpp,scobra,1981,Konami (Stern Electronics license),good
 scobras,galaxian.cpp,scobra,1981,Konami (Stern Electronics license),good
 scobrase,galaxian.cpp,scobra,1981,Konami (Sega license),good
-scramb2,galaxold.cpp,scramble,1981,bootleg,good
-scramblb,galaxold.cpp,scramble,1981,bootleg,good
 scramble,galaxian.cpp,,1981,Konami,good
 scramblebb,galaxian.cpp,scramble,1981,bootleg?,good
 scramblebf,galaxian.cpp,scramble,1981,bootleg (Karateko),good
-scrambler,galaxold.cpp,scramble,1981,bootleg (Reben S.A.),good
 scrambles,galaxian.cpp,scramble,1981,Konami (Stern Electronics license),good
 scrambles2,galaxian.cpp,scramble,1981,Konami (Stern Electronics license),good
 scrambp,galaxian.cpp,scramble,1981,bootleg (Billport S.A.),good
 scramce,galaxian.cpp,scramble,1981,bootleg (Centromatic S.A.),good
 scrampt,galaxian.cpp,scramble,1981,bootleg (Petaco S.A.),good
 scramrf,galaxian.cpp,scramble,1981,bootleg (Recreativos Franco),good
-sdungeon,qix.cpp,,1981,Taito America Corporation,good
-shollow,mcr.cpp,,1981,Bally Midway,good
-shollow2,mcr.cpp,shollow,1981,Bally Midway,good
-silvland,cclimber.cpp,rpatrol,1981,Falcon,good
-skyskipr,popeye.cpp,,1981,Nintendo,good
-sm_ngacc,sumt8035.cpp,,1981,Summit Coin,preliminary
-sm_ultng,sumt8035.cpp,,1981,Summit Coin,preliminary
-snspelluka,tispeak.cpp,snspell,1981,Texas Instruments,preliminary
-softbox,softbox.cpp,,1981,Small Systems Engineering,good
-solar_l2,s7.cpp,,1981,Williams,preliminary
-solarfox,mcr.cpp,,1981,Bally Midway,good
-solarq,cinemat.cpp,,1981,Cinematronics,imperfect
-spacecr,taitosj.cpp,,1981,Taito Corporation,good
-spacefrt,cvs.cpp,,1981,Century Electronics,imperfect
-spaceftr,cinemat.cpp,starcas,1981,Cinematronics (Zaccaria license),imperfect
-spaceod,segag80r.cpp,,1981,Sega,imperfect
-spaceod2,segag80r.cpp,spaceod,1981,Sega,imperfect
-spaceskr,taitosj.cpp,,1981,Taito Corporation,good
-spacfury,segag80v.cpp,,1981,Sega,imperfect
-spacfurya,segag80v.cpp,spacfury,1981,Sega,imperfect
-spacfuryb,segag80v.cpp,spacfury,1981,Sega,imperfect
 spactrai,galaxian.cpp,warofbug,1981,Celv,imperfect
-spiders,spiders.cpp,,1981,Sigma Enterprises Inc.,imperfect
-spiders2,spiders.cpp,spiders,1981,Sigma Enterprises Inc.,imperfect
-spiders3,spiders.cpp,spiders,1981,Sigma Enterprises Inc.,imperfect
-spinner,spiders.cpp,spiders,1981,bootleg,imperfect
-spltsecp,st_mp200.cpp,,1981,Stern,preliminary
-stactics,stactics.cpp,,1981,Sega,preliminary
-stargate,williams.cpp,,1981,Williams / Vid Kidz,good
-starrkr,vicdual.cpp,brdrline,1981,Sega,preliminary
-startrkd,williams.cpp,defender,1981,bootleg,good
-statusbj,statriv2.cpp,,1981,Status Games,good
-stratgys,scobra.cpp,stratgyx,1981,Konami (Stern Electronics license),good
-stratgyx,scobra.cpp,,1981,Konami,good
 strfbomb,galaxian.cpp,scramble,1981,bootleg (Omni),good
-super80,super80.cpp,,1981,Dick Smith Electronics,good
-super80d,super80.cpp,super80,1981,Dick Smith Electronics,good
-super80e,super80.cpp,super80,1981,Dick Smith Electronics,good
-super80m,super80.cpp,super80,1981,Dick Smith Electronics,good
-super80r,super80.cpp,super80,1981,Dick Smith Electronics,good
-super80v,super80.cpp,super80,1981,Dick Smith Electronics,good
-superpet,pet.cpp,pet8032,1981,Commodore Business Machines,preliminary
-supertnk,supertnk.cpp,,1981,Video Games GmbH,good
 suprheli,galaxian.cpp,scobra,1981,bootleg,good
-suprmatk,missile.cpp,missile,1981,Atari / General Computer Corporation,good
-suprmatkd,missile.cpp,missile,1981,Atari / General Computer Corporation,good
-sureshop,taito.cpp,,1981,Taito do Brasil,preliminary
-sys2900,sys2900.cpp,,1981,Systems Group,preliminary
-tactcian2,rallyx.cpp,tactcian,1981,Konami (Sega license),good
-tandy12,hh_tms1k.cpp,,1981,Tandy Radio Shack,good
-tc4,hh_tms1k.cpp,,1981,Coleco,good
-thehand,gotya.cpp,,1981,T.I.C.,imperfect
-thief,thief.cpp,,1981,Pacific Novelty,good
-ti99_4a,ti99_4x.cpp,,1981,Texas Instruments,good
-ti99_4ae,ti99_4x.cpp,ti99_4a,1981,Texas Instruments,good
-tisland,btime.cpp,,1981,Data East Corporation,preliminary
-tntell,tispeak.cpp,,1981,Texas Instruments,imperfect
-tntellfr,tispeak.cpp,tntell,1981,Texas Instruments,imperfect
-tntelluk,tispeak.cpp,tntell,1981,Texas Instruments,imperfect
-tripdraw,statriv2.cpp,,1981,Status Games,preliminary
-tripool,jack.cpp,,1981,Noma (Casino Tech license),imperfect
-tripoola,jack.cpp,tripool,1981,Noma (Costal Games license),imperfect
-ttfitter,thepit.cpp,roundup,1981,Taito Corporation,good
-ttmahjng,route16.cpp,,1981,Taito,good
-tunhuntc,tunhunt.cpp,tunhunt,1981,Atari (Centuri license),good
-turbo,turbo.cpp,,1981,Sega,imperfect
-turboa,turbo.cpp,turbo,1981,Sega,imperfect
-turbob,turbo.cpp,turbo,1981,Sega,imperfect
-turbobl,turbo.cpp,turbo,1981,bootleg,imperfect
-turboc,turbo.cpp,turbo,1981,Sega,imperfect
-turbod,turbo.cpp,turbo,1981,Sega,imperfect
 turpin,galaxian.cpp,turtles,1981,Konami (Sega license),good
-turpins,scramble.cpp,turtles,1981,bootleg,preliminary
 turtles,galaxian.cpp,,1981,Konami (Stern Electronics license),good
-vanguard,snk6502.cpp,,1981,SNK,imperfect
-vanguardc,snk6502.cpp,vanguard,1981,SNK (Centuri license),imperfect
-vanguardj,snk6502.cpp,vanguard,1981,SNK,imperfect
-venture,exidy.cpp,,1981,Exidy,good
-venture2,exidy.cpp,venture,1981,Exidy,good
-venture4,exidy.cpp,venture,1981,Exidy,good
-vic20,vic20.cpp,vic1001,1981,Commodore Business Machines,imperfect
-vic20_se,vic20.cpp,vic1001,1981,Commodore Business Machines,imperfect
-vic20p,vic20.cpp,vic1001,1981,Commodore Business Machines,imperfect
-vinvader,hh_hmcs40.cpp,,1981,VTech,good
-viperp,st_mp200.cpp,,1981,Stern,preliminary
-vlcno_1a,gts80.cpp,vlcno_1b,1981,Gottlieb,preliminary
-vlcno_1b,gts80.cpp,,1981,Gottlieb,preliminary
-vlcno_ax,gts80.cpp,,1981,Gottlieb,preliminary
-vpool,galaxold.cpp,hustler,1981,bootleg,good
-vt101,vt100.cpp,vt102,1981,Digital Equipment Corporation,preliminary
-vt102,vt100.cpp,,1981,Digital Equipment Corporation,preliminary
-vt131,vt100.cpp,vt102,1981,Digital Equipment Corporation,preliminary
 warofbug,galaxian.cpp,,1981,Armenia / Food and Fun Corp,good
 warofbugg,galaxian.cpp,warofbug,1981,Armenia,preliminary
 warofbugu,galaxian.cpp,warofbug,1981,Armenia / Super Video Games,good
-warpwarp,warpwarp.cpp,,1981,Namco,good
-warpwarpr,warpwarp.cpp,warpwarp,1981,Namco (Rock-Ola license),good
-warpwarpr2,warpwarp.cpp,warpwarp,1981,Namco (Rock-Ola license),good
-winner81,corona.cpp,winner82,1981,"Corona Co, LTD.",imperfect
-winner81b,corona.cpp,winner82,1981,"Corona Co, LTD.",good
 woodpeca,pacman.cpp,woodpeck,1981,Amenip,good
 woodpeck,pacman.cpp,,1981,Amenip (Palcom Queen River),good
-wotw,cinemat.cpp,,1981,Cinematronics,imperfect
-wotwc,cinemat.cpp,wotw,1981,Cinematronics,imperfect
-ww3,redalert.cpp,redalert,1981,Irem,imperfect
-x820,xerox820.cpp,bigboard,1981,Xerox,good
-zapcomp,zapcomputer.cpp,,1981,Steve Ciarcia / BYTE / McGRAW-HILL,good
-zarzon,snk6502.cpp,satansat,1981,SNK (Taito America license),imperfect
-zephy,ltd.cpp,,1981,LTD,preliminary
-zx81,zx.cpp,,1981,Sinclair Research Ltd,preliminary
