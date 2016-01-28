@@ -16,7 +16,7 @@ from StringIO import StringIO
 
 def parsexml(filename):
     tree = ET.parse(filename)
-    csvfile = open(r'.\mamelist80.csv','wb')
+    csvfile = open(r'.\submamelist.csv','wb')
     writer = csv.writer(csvfile,delimiter=',')
     name='name'
     sourcefile='sourcefile'
@@ -29,7 +29,7 @@ def parsexml(filename):
     root = tree.getroot()
     #mame =root.find('mame')
     #years = ['1980','1981','1982']
-    source =['pacman.cpp','galaxian.cpp']
+    source =['pacman.cpp','galaxian.cpp','phoenix.cpp']
     for machines in root.iter('machine'):
         name= machines.get('name')
         cloneof = machines.get('cloneof',default='')

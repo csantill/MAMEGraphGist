@@ -24,6 +24,9 @@ astrians,galaxian.cpp,galaxian,1980,bootleg (BGV Ltd.),Astrians (clone of Swarm)
 atlantis,galaxian.cpp,,1981,Comsoft,Battle of Atlantis (set 1),good
 atlantis2,galaxian.cpp,atlantis,1981,Comsoft,Battle of Atlantis (set 2),good
 atlantisb,galaxian.cpp,atlantis,1981,bootleg,Battle of Atlantis (bootleg),good
+avefenix,phoenix.cpp,phoenix,1980,bootleg (Video Game),"Ave Fenix (Electrogame, Spanish bootleg of Phoenix)",good
+avefenixl,phoenix.cpp,phoenix,1980,bootleg (Laguna),"Ave Fenix (Laguna, Spanish bootleg of Phoenix)",good
+avefenixrf,phoenix.cpp,phoenix,1980,bootleg (Recreativos Franco S.A.),"Ave Fenix (Recreativos Franco, Spanish bootleg of Phoenix)",good
 azurian,galaxian.cpp,,1982,Rait Electronics Ltd,Azurian Attack,good
 batman2,galaxian.cpp,phoenix,1981,bootleg,Batman Part 2,good
 beastf,pacman.cpp,suprglob,1984,Epos Corporation,Beastie Feastie,good
@@ -36,11 +39,13 @@ bwcasino,pacman.cpp,,1983,Epos Corporation,Boardwalk Casino,good
 calipso,galaxian.cpp,,1982,Tago Electronics,Calipso,good
 candory,pacman.cpp,ponpoko,1982,bootleg,Candory (Ponpoko bootleg with Mario),good
 cannonbp,pacman.cpp,,198?,Novomatic,Cannon Ball (Pac-Man Hardware),preliminary
+capitol,phoenix.cpp,pleiads,1981,bootleg? (Universal Video Spiel),Capitol,imperfect
 catacomb,galaxian.cpp,,1982,MTM Games,Catacomb,preliminary
 checkman,galaxian.cpp,,1982,Zilec-Zenitone,Check Man,good
 checkmanj,galaxian.cpp,checkman,1982,Zilec-Zenitone (Jaleco license),Check Man (Japan),good
 chewing,galaxian.cpp,luctoday,19??,<unknown>,Chewing Gum,good
 clubpacm,pacman.cpp,,1989,Miky SRL,Pacman Club / Club Lambada (Argentina),preliminary
+condor,phoenix.cpp,phoenix,1981,bootleg,Condor (bootleg of Phoenix),good
 crockman,pacman.cpp,puckman,1980,bootleg (Rene Pierre),Crock-Man,good
 crush,pacman.cpp,,1981,"Alpha Denshi Co. / Kural Samno Electric, Ltd.",Crush Roller (set 1),good
 crush2,pacman.cpp,crush,1981,"Alpha Denshi Co. / Kural Esco Electric, Ltd.",Crush Roller (set 2),good
@@ -68,8 +73,11 @@ eyes2,pacman.cpp,eyes,1982,Techstar (Rock-Ola license),Eyes (US set 2),good
 eyesb,pacman.cpp,eyes,1982,bootleg,Eyes (bootleg set 1),good
 eyeszac,pacman.cpp,eyes,1982,Techstar (Zaccaria license),Eyes (Italy),preliminary
 eyeszacb,pacman.cpp,eyes,1982,bootleg,"Eyes (bootleg set 2, decrypted)",good
+falcon,phoenix.cpp,phoenix,1980,bootleg,Falcon (bootleg of Phoenix) (8085A CPU),good
+falconz,phoenix.cpp,phoenix,1980,bootleg,Falcon (bootleg of Phoenix) (Z80 CPU),good
 fantastc,galaxian.cpp,,198?,Taito do Brasil,Fantastic (Galaga conversion on Galaxian hardware),good
 fantazia,galaxian.cpp,mooncrst,1980,bootleg? (Subelectro),Fantazia (bootleg?),good
+fenix,phoenix.cpp,phoenix,1980,bootleg,Fenix (bootleg of Phoenix),preliminary
 frogf,galaxian.cpp,frogger,1981,bootleg (Falcon),Frog (Falcon bootleg),good
 frogg,galaxian.cpp,frogger,1981,bootleg,Frog (Galaxian hardware),good
 frogger,galaxian.cpp,,1981,Konami,Frogger,good
@@ -98,6 +106,7 @@ galturbo,galaxian.cpp,galaxian,1979,hack,Galaxian Turbo (superg hack),good
 ghostmun,galaxian.cpp,puckman,1981,bootleg (Leisure and Allied),Ghost Muncher,good
 gmgalax,galaxian.cpp,,1981,bootleg,Ghostmuncher Galaxian (bootleg),good
 gorkans,pacman.cpp,mrtnt,1983,Techstar,Gorkans,good
+griffon,phoenix.cpp,phoenix,1980,bootleg (Videotron),Griffon (bootleg of Phoenix),good
 gteikob2,galaxian.cpp,uniwars,1980,bootleg,Gingateikoku No Gyakushu (bootleg set 2),good
 gteikokb,galaxian.cpp,uniwars,1980,bootleg,Gingateikoku No Gyakushu (bootleg set 1),good
 gteikoku,galaxian.cpp,uniwars,1980,Irem,Gingateikoku No Gyakushu,good
@@ -168,6 +177,7 @@ mspacpls,pacman.cpp,mspacman,1981,hack,Ms. Pac-Man Plus,good
 newpuc2,pacman.cpp,puckman,1980,hack,Newpuc2 (set 1),good
 newpuc2b,pacman.cpp,puckman,1980,hack,Newpuc2 (set 2),good
 newpuckx,pacman.cpp,puckman,1980,hack,New Puck-X,good
+nextfase,phoenix.cpp,phoenix,1981,bootleg (Petaco S.A.),Next Fase (bootleg of Phoenix),good
 nmouse,pacman.cpp,,1981,Amenip (Palcom Queen River),Naughty Mouse (set 1),good
 nmouseb,pacman.cpp,nmouse,1981,Amenip Nova Games Ltd.,Naughty Mouse (set 2),good
 numcrash,pacman.cpp,,1983,Hanshin Goraku,Number Crash,preliminary
@@ -189,12 +199,31 @@ paintrlr,pacman.cpp,crush,1981,bootleg,Paint Roller (bootleg of Crush Roller),go
 pajaroes,galaxian.cpp,uniwars,1980,bootleg (PSV S.A.),Pajaro del Espacio (Spanish bootleg of UniWar S),good
 pengojpm,pacman.cpp,pengo,1981,bootleg,"Pengo (bootleg on Pac-Man hardware, set 1)",good
 pengopac,pacman.cpp,pengo,1981,bootleg,"Pengo (bootleg on Pac-Man hardware, set 2)",good
+phoenix,phoenix.cpp,,1980,Amstar,Phoenix (Amstar),good
+phoenix3,phoenix.cpp,phoenix,1980,bootleg (T.P.N.),Phoenix (T.P.N. bootleg),good
+phoenixa,phoenix.cpp,phoenix,1980,Amstar (Centuri license),"Phoenix (Centuri, set 1)",good
+phoenixass,phoenix.cpp,phoenix,1981,bootleg (Assa),"Phoenix (Assa, Spanish bootleg)",good
+phoenixb,phoenix.cpp,phoenix,1980,Amstar (Centuri license),"Phoenix (Centuri, set 2)",good
+phoenixc,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),"Phoenix (Irecsa / G.G.I Corp, set 1)",good
+phoenixc2,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),"Phoenix (Irecsa / G.G.I Corp, set 2)",good
+phoenixc3,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),"Phoenix (Irecsa / G.G.I Corp, set 3)",good
+phoenixc4,phoenix.cpp,phoenix,1981,bootleg? (Irecsa / G.G.I Corp),"Phoenix (Irecsa / G.G.I Corp, set 4)",good
+phoenixdal,phoenix.cpp,phoenix,1980,bootleg (D&L),Phoenix (D&L bootleg),good
+phoenixj,phoenix.cpp,phoenix,1980,Amstar (Taito Japan license),Phoenix (Taito Japan),good
+phoenixs,phoenix.cpp,phoenix,1981,bootleg (Sonic),"Phoenix (Sonic, Spanish bootleg)",good
+phoenixt,phoenix.cpp,phoenix,1980,Amstar (Taito license),Phoenix (Taito),good
 phoenxp2,galaxian.cpp,phoenix,1981,bootleg,Phoenix Part 2,good
 piranha,pacman.cpp,puckman,1981,GL (US Billiards license),Piranha,good
 piranhah,pacman.cpp,puckman,1981,hack,Piranha (hack),good
 piranhao,pacman.cpp,puckman,1981,GL (US Billiards license),Piranha (older),good
 pisces,galaxian.cpp,,19??,Subelectro,Pisces,good
 piscesb,galaxian.cpp,pisces,19??,bootleg,Pisces (bootleg),good
+pleiadbl,phoenix.cpp,pleiads,1981,bootleg,Pleiads (bootleg set 1),imperfect
+pleiadce,phoenix.cpp,pleiads,1981,Tehkan (Centuri license),Pleiads (Centuri),imperfect
+pleiads,phoenix.cpp,,1981,Tehkan,Pleiads (Tehkan),imperfect
+pleiadsb2,phoenix.cpp,pleiads,1981,bootleg (ESG),Pleiads (bootleg set 2),good
+pleiadsi,phoenix.cpp,pleiads,1981,bootleg? (Irecsa),Pleiads (Irecsa),imperfect
+pleiadss,phoenix.cpp,pleiads,1981,bootleg,Pleiads (Spanish bootleg),good
 ponpoko,pacman.cpp,,1982,Sigma Enterprises Inc.,Ponpoko,good
 ponpokov,pacman.cpp,ponpoko,1982,Sigma Enterprises Inc. (Venture Line license),Ponpoko (Venture Line),good
 popeyeman,pacman.cpp,puckman,1981,hack,Popeye-Man,good
@@ -256,6 +285,7 @@ superg,galaxian.cpp,galaxian,1979,hack,Super Galaxians (galaxiana hack),good
 supergs,galaxian.cpp,galaxian,1979,hack,Super Galaxians (Silver Systems),good
 supergx,galaxian.cpp,galaxian,1980,Namco / Nichibutsu,Super GX,preliminary
 suprheli,galaxian.cpp,scobra,1981,bootleg,Super Heli (Super Cobra bootleg),good
+survival,phoenix.cpp,,1982,Rock-Ola,Survival,imperfect
 swarm,galaxian.cpp,galaxian,1979,bootleg? (Subelectro),Swarm (bootleg?),good
 tazmania,galaxian.cpp,,1982,Stern Electronics,Tazz-Mania (set 1),good
 tdpgal,galaxian.cpp,,1983,Design Labs / Thomas Automatics,Triple Draw Poker,good
@@ -273,6 +303,9 @@ uniwars,galaxian.cpp,,1980,Irem,UniWar S,good
 vanvan,pacman.cpp,,1983,Sanritsu,Van-Van Car,good
 vanvanb,pacman.cpp,vanvan,1983,Sanritsu (Karateco license?),Van-Van Car (Karateco set 2),good
 vanvank,pacman.cpp,vanvan,1983,Sanritsu (Karateco license?),Van-Van Car (Karateco set 1),good
+vautour,phoenix.cpp,phoenix,1980,bootleg (Jeutel),Vautour (bootleg of Phoenix) (8085A CPU),good
+vautourz,phoenix.cpp,phoenix,1980,bootleg,Vautour (bootleg of Phoenix) (Z80 CPU),good
+vautourza,phoenix.cpp,phoenix,1980,bootleg (Jeutel),"Vautour (bootleg of Phoenix) (Z80 CPU, single PROM)",good
 warofbug,galaxian.cpp,,1981,Armenia / Food and Fun Corp,War of the Bugs or Monsterous Manouvers in a Mushroom Maze,good
 warofbugg,galaxian.cpp,warofbug,1981,Armenia,War of the Bugs or Monsterous Manouvers in a Mushroom Maze (German),preliminary
 warofbugu,galaxian.cpp,warofbug,1981,Armenia / Super Video Games,War of the Bugs or Monsterous Manouvers in a Mushroom Maze (US),good
