@@ -42,7 +42,7 @@ def parsexml(filename):
 		
      #       if year in years:
             manufacturer = machines.find('manufacturer').text
-            description=machines.find('description').text
+            description=machines.find('description').text.encode('utf-8').strip()
             
             driver = machines.find('driver')
             status = driver.get('status')

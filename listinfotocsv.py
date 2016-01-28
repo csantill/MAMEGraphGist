@@ -37,12 +37,11 @@ def parsexml(filename):
         yearelement = machines.find('year')
         if yearelement is None:
             continue
-        description=machines.find('description').text
+        description=machines.find('description').text.encode('utf-8').strip()
         year = yearelement.text
         manufacturer = machines.find('manufacturer').text
         driver = machines.find('driver')
         status = driver.get('status')
-        print name +" :" + description 
         writer.writerow((name,sourcefile,cloneof,year,manufacturer,description,status))
 
 parsexml(r'.\mamelist.xml')
