@@ -16,16 +16,17 @@ from StringIO import StringIO
 
 def parsexml(filename):
     tree = ET.parse(filename)
-    csvfile = open(r'E:\data\MAME\mamelist.csv','wb')
+    csvfile = open(r'.\mamelist.csv','wb')
     writer = csv.writer(csvfile,delimiter=',')
     name='name'
     sourcefile='sourcefile'
     cloneof='cloneof'
     year='year'
     manufacturer = 'manufacturer'
+    description = 'description'
     status='status'
 
-    writer.writerow((name,sourcefile,cloneof,year,manufacturer,status))
+    writer.writerow((name,sourcefile,cloneof,year,manufacturer,description,status))
 
     root = tree.getroot()
     #mame =root.find('mame')
@@ -36,12 +37,12 @@ def parsexml(filename):
         yearelement = machines.find('year')
         if yearelement is None:
             continue
-
+        description=machines.find('description').text
         year = yearelement.text
         manufacturer = machines.find('manufacturer').text
         driver = machines.find('driver')
         status = driver.get('status')
+        print name +" :" + description 
+        writer.writerow((name,sourcefile,cloneof,year,manufacturer,description,status))
 
-        writer.writerow((name,sourcefile,cloneof,year,manufacturer,status))
-
-parsexml(r'E:\data\MAME\mamelist.xml')
+parsexml(r'.\mamelist.xml')
