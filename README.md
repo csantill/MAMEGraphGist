@@ -1,6 +1,6 @@
 # MAMEGraphGist
 Multi Arcade Machine Emulator Graph Gist
-Support files for MAMGE Graph GIST http://portal.graphgist.org/graph_gists/2be800c4-8b62-4e5c-a116-366640b1de78
+Support files for MAME Graph GIST http://portal.graphgist.org/graph_gists/2be800c4-8b62-4e5c-a116-366640b1de78
 
 ## Files
 
